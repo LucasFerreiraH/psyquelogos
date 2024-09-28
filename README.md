@@ -24,9 +24,6 @@ O site da *PsyqueLogos* foi criado para fornecer uma experiência agradável e i
 ## Objetivo
 Este projeto foi criado com o propósito de praticar e demonstrar minhas habilidades em desenvolvimento front-end, incluindo HTML, CSS e design responsivo. 
 
-## Como Visualizar
-Para visualizar o projeto, basta abrir o arquivo index.html em qualquer navegador web.
-
 ---
 
 *Observação*: Este site é fictício e foi criado apenas para fins de estudo.
